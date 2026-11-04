@@ -1,13 +1,11 @@
-# FORMA
+# offgrid — версия 2
 
-Демонстрационный магазин одежды: React, TypeScript, Vite, Tailwind CSS и Lucide. Товары и цены вымышлены, заказы не принимаются. Корзина хранится в localStorage браузера.
+Демонстрационный магазин одежды для портфолио. React, Vite, TypeScript, Tailwind CSS и Lucide. Товары и цены вымышлены, оформление заказа отключено. Каталог, поиск, фильтры, сортировка, избранное и корзина с localStorage. Первая версия: https://forma-clothing-demo.vercel.app/.
 
 ```sh
-npm install
+npm ci
 npm run dev
 npm run build
 ```
 
-Фотографии: Unsplash (удалённые изображения). Шрифты: Google Fonts.
-
-Изображения `public/images/bomber-terracotta.jpg` и `public/images/hero-second.jpg` — Unsplash (исходные URL указаны в истории проекта). `bomber-charcoal.jpg` — сгенерированный вариант исходной фотографии бомбера: изменён цвет ткани на графитовый при сохранении фасона и композиции.
+Кампейн `public/images/offgrid-hero.jpg` создан с помощью imagegen по запросу: «Urban technical streetwear editorial ... two young adult models in oversized cobalt blue windbreaker, charcoal hoodie and loose trousers, standing on a sunlit concrete rooftop against clear blue sky ... no text, no logos». Остальные фото — Unsplash, графитовый бомбер — сгенерированный цветовой вариант фотографии Unsplash. Шрифт загружается с Google Fonts.
