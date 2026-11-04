@@ -9,3 +9,5 @@ npm run build
 ```
 
 Кампейн `public/images/offgrid-hero.jpg` создан с помощью imagegen по запросу: «Urban technical streetwear editorial ... two young adult models in oversized cobalt blue windbreaker, charcoal hoodie and loose trousers, standing on a sunlit concrete rooftop against clear blue sky ... no text, no logos». Остальные фото — Unsplash, графитовый бомбер — сгенерированный цветовой вариант фотографии Unsplash. Шрифт загружается с Google Fonts.
+
+`public/images/offgrid-hero-quiet.jpg` — обработанная imagegen версия кампейн-снимка: цвета курток и неба приведены к приглушённой сланцевой палитре.
